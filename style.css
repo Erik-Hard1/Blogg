@@ -64,7 +64,11 @@ body{
     background-repeat: repeat;
 }
 
+.aboutMe{
+    margin: 0;
+    background-image: url(img/THOUSAND\ YARD\ STARE.png);
 
+}
 
 
 
